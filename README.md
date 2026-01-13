@@ -82,7 +82,7 @@ Most document editors require constant internet connectivity, cloud accounts, an
 - Share documents to any app
 - Open files from any file manager
 - Recent documents for quick access
-- Works on Android 8.0+ (API 26+)
+- Works on Android 12.0+ (API 31+)
 
 ---
 
