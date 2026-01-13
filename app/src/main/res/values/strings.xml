@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DocEdit</string>
+    <string name="app_description">Offline Document Editor</string>
+    
+    <!-- Actions -->
+    <string name="action_new">New Document</string>
+    <string name="action_open">Open</string>
+    <string name="action_save">Save</string>
+    <string name="action_save_as">Save As</string>
+    <string name="action_export_pdf">Export to PDF</string>
+    <string name="action_share">Share</string>
+    <string name="action_rename">Rename</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_close">Close</string>
+    
+    <!-- Formatting -->
+    <string name="format_bold">Bold</string>
+    <string name="format_italic">Italic</string>
+    <string name="format_underline">Underline</string>
+    <string name="format_font_size">Font Size</string>
+    
+    <!-- File Types -->
+    <string name="file_type_txt">Text File (.txt)</string>
+    <string name="file_type_docx">Word Document (.docx)</string>
+    <string name="file_type_odt">OpenDocument (.odt)</string>
+    <string name="file_type_pdf">PDF Document (.pdf)</string>
+    
+    <!-- Messages -->
+    <string name="msg_document_saved">Document saved</string>
+    <string name="msg_document_exported">Exported to PDF</string>
+    <string name="msg_document_shared">Opening share menu</string>
+    <string name="msg_document_renamed">Document renamed</string>
+    <string name="msg_document_deleted">Document deleted</string>
+    <string name="msg_unsaved_changes">You have unsaved changes</string>
+    <string name="msg_discard_changes">Discard changes?</string>
+    <string name="msg_no_documents">No documents yet</string>
+    <string name="msg_open_or_create">Open or create a document to get started</string>
+    <string name="msg_pdf_view_only">PDF files are view-only</string>
+    
+    <!-- Dialogs -->
+    <string name="dialog_save">Save</string>
+    <string name="dialog_discard">Discard</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="dialog_confirm">Confirm</string>
+    <string name="dialog_rename_title">Rename Document</string>
+    <string name="dialog_new_name">Enter new name</string>
+    <string name="dialog_delete_title">Delete Document?</string>
+    <string name="dialog_delete_message">This action cannot be undone.</string>
+    
+    <!-- Stats -->
+    <string name="stats_words">words</string>
+    <string name="stats_chars">characters</string>
+</resources>
