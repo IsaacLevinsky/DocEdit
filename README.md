@@ -37,7 +37,7 @@ Most document editors require constant internet connectivity, cloud accounts, an
 | 💳 Monthly subscriptions | ✅ **One-time purchase** — no recurring fees |
 | ☁️ Cloud storage required | ✅ **Local-first** — your files stay on your device |
 | 📊 Tracks your data | ✅ **Zero telemetry** — no accounts, no tracking |
-| 📦 Bloated apps (200MB+) | ✅ **Lightweight** — under 70MB installed |
+| 📦 Bloated apps (100MB+) | ✅ **Lightweight** — 4mb download |
 
 **Built for reliability. Built to last.**
 
