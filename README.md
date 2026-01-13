@@ -173,7 +173,7 @@ DocEdit follows **Clean Architecture** principles with **MVVM** presentation lay
 | **Navigation** | Navigation Compose |
 | **Async** | Kotlin Coroutines + StateFlow |
 | **Preferences** | DataStore |
-| **Min SDK** | 26 (Android 8.0) |
+| **Min SDK** | 31 (Android 12.0) |
 | **Target SDK** | 36 (Android 16) |
 
 ---
